@@ -1,0 +1,4 @@
+Menambahkan fitur 2 
+
+- Pembuatan fitur Manual
+- Pembuatan fitur otomatis
