@@ -1,0 +1,3 @@
+-  Memaksimalkan sistem database django 
+-  Memetakan fitur yang  ada
+-  Membuat layout yang berfungsi dengan baik
