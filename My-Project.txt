@@ -1,3 +1,12 @@
 -  Dashboard Volcano activity  based on  django
 -  laporan akhir KP 
 -  fikasasi program kerja KKN  Samosir 2022
+
+
+Add description : 
+
+Django dashboard : 
+
+Database system
+API 
+Front End
